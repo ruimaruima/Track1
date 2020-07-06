@@ -28,9 +28,9 @@ To predict if a student of XuetangX will dropout from a course based on their on
 
 Submissions are evaluated on one metric: acc(accuracy)
 
-For a student i who takes 5 courses: course_i=(a,b,c,d,e)$
+For a student i who takes 5 courses: course_i=(a,b,c,d,e)
 
-Actual dropout situation is: dropout_i=(1,1,1,1,0)$
+Actual dropout situation is: dropout_i=(1,1,1,1,0)
 
 Predicted dropout situation is: predict_i=(1,1,1,0,0)
 
